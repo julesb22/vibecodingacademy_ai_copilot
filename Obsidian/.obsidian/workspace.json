@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "061613517f89cfe8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5213830063846f2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57efb0ca20e8f7bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linkedin_articles/22_09_2025_tech-news.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "22_09_2025_tech-news"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e3b6f25b8cd2a7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d14b5a98637b4c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0d773144afcd577",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "705b9c9df0def578",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7c22a433af8459c0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 226.5
+  },
+  "right": {
+    "id": "20fe4d21a2cff784",
+    "type": "split",
+    "children": [
+      {
+        "id": "d246d26cc18894ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3612b01fead4a47",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "newsletters/18_09_2025_mcp_revolution.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 18_09_2025_mcp_revolution"
+            }
+          },
+          {
+            "id": "a2b2a31cd6777529",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "newsletters/18_09_2025_mcp_revolution.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 18_09_2025_mcp_revolution"
+            }
+          },
+          {
+            "id": "62b06f7e0114fe3f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5ca7af899c56bd75",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "newsletters/18_09_2025_mcp_revolution.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 18_09_2025_mcp_revolution"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "57efb0ca20e8f7bd",
+  "lastOpenFiles": [
+    "linkedin_articles/24_09_2025_allow_disco_prototype.md",
+    "linkedin_articles/22_09_2025_tech-news.md",
+    "linkedin_articles/09_09_2025.md",
+    "newsletters/18_09_2025_mcp_revolution.md",
+    "blog_articles",
+    "newsletters/05_09_2025_meditations_vibe_coding.md",
+    "newsletters/08_08_2025_crossing_technical_gap.md",
+    "newsletters/_",
+    "linkedin_articles/ai-learning-habit-article.md",
+    "newsletters/inspirations/inspiration_list.md",
+    "newsletters/inspirations",
+    "newsletters/inspiration_list.md",
+    "newsletters",
+    "Untitled.base",
+    "linkedin_articles/16_09_2025.md",
+    "linkedin_articles/17_09_2025_framer-to-nextjs.md",
+    "linkedin_articles/16_09_2025.md.tmp.6708.1758015868565",
+    "linkedin_articles/16_09_2025.md.tmp.6708.1758015863169",
+    "Welcome.md",
+    "linkedin_articles/04_09_2025.md",
+    "linkedin_articles"
+  ]
+}
