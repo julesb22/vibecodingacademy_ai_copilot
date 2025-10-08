@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linkedin_articles/08_10_2025_learning-momentum.md",
+                "file": "changelogs/emily_design_system_upgrade_081025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08_10_2025_learning-momentum"
+              "title": "emily_design_system_upgrade_081025"
             }
           }
         ],
@@ -186,8 +186,9 @@
   },
   "active": "4446b2667f885e2d",
   "lastOpenFiles": [
-    "linkedin_articles/07_10_2025_vibe-meetup.md",
     "linkedin_articles/08_10_2025_learning-momentum.md",
+    "changelogs/emily_design_system_upgrade_081025.md",
+    "linkedin_articles/07_10_2025_vibe-meetup.md",
     "linkedin_articles/07_10_2025_vibe-meetup.md.tmp.53631.1759851665856",
     "linkedin_articles/06_10_2025_mcp-expertise.md",
     "newsletters/03_10_2025_spec-driven-development.md",
