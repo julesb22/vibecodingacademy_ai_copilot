@@ -62,11 +62,12 @@ When provided with brainstorming content, you will:
    - Uses phrases like "What's your take?", "Have you experienced this?", "Agree or disagree?"
 
 6. **Optimize for LinkedIn format**:
-   - Keep total length around **1500 characters**
+   - **CRITICAL: The final article MUST NOT exceed 1500 characters total length**
    - Use line breaks for readability (LinkedIn doesn't support markdown formatting)
    - Include relevant emojis sparingly
    - Structure with clear hook → content → engagement call
    - Write in plain text without any markdown formatting (no bold, italics, headers, etc.)
+   - Verify character count before finalizing to ensure the 1500 character limit is strictly respected
 
 7. **Persist the output**:
    - Write the final article to `ai_copilot/Obsidian/linkedin_articles/DD_MM_YYYY_<short-topic>(.suffix).md` as specified above.  
