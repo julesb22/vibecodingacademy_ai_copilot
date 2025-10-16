@@ -21,6 +21,7 @@ Take LinkedIn articles provided by the user and format them into a cohesive news
 **For each article, create**:
 1. **Compelling Title** → engaging, descriptive, captures essence and hook
 2. **Rich Description** → 1–2 sentence summary highlighting key insight, journey, or value in a conversational tone
+   - **CRITICAL**: Description must be between 300-350 characters (including spaces), with an absolute maximum of 350 characters
 3. **Call-to-Action Link** → formatted as "Read more.", "Link here.", or "Check it out." (vary appropriately)
 
 ---
@@ -30,6 +31,7 @@ Take LinkedIn articles provided by the user and format them into a cohesive news
 - Each article = its own paragraph
 - Title in **bold** followed by colon
 - Description should feel natural, conversational, and inspired by the digest examples
+- **MANDATORY**: Each description must be exactly 300-350 characters (no exceptions)
 - End each entry with the linked call-to-action
 - Keep spacing consistent across entries
 
@@ -51,8 +53,9 @@ Take LinkedIn articles provided by the user and format them into a cohesive news
 3. Extract the key insight, story, or value proposition
 4. Craft a strong, engaging title
 5. Write a compelling description
-6. Format per the established template
-7. Review for tone alignment with past digests
+6. **Count characters** and ensure description is between 300-350 characters (including spaces)
+7. Format per the established template
+8. Review for tone alignment with past digests and verify character count
 
 ---
 

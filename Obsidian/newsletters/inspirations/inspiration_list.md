@@ -4,3 +4,4 @@ Here's a list of youtube influencers (and the link to their youtube channels) I'
 - AI Labs (https://www.youtube.com/@AILABS-393)
 - Alex Finn (https://www.youtube.com/@AlexFinnOfficial)
 - Gergely Orosz (https://www.youtube.com/@pragmaticengineer)
+- Ras Mic (https://www.youtube.com/@rasmic)

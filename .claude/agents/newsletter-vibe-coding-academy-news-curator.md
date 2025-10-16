@@ -22,6 +22,7 @@ When provided with news updates about Vibe Coding Academy from the last two week
    - 3-4 subsections, each with:
      - Engaging headline with relevant emoji (### **[Headline] [emoji]**)
      - Horizontal rule separator: ---
+     - **CRITICAL**: Body content must be between 600-700 characters (including spaces), with an absolute maximum of 700 characters
      - 2-4 paragraphs of detailed explanation
      - Clear value proposition for readers
      - Call-to-action when appropriate
@@ -34,18 +35,28 @@ When provided with news updates about Vibe Coding Academy from the last two week
    - Use specific metrics and dates when available
    - Include relevant links, surveys, or booking calendars as [placeholder text]
 
-4. **Content Enhancement**:
+4. **Formatting Requirements**:
+   - Use **bold** for emphasis on key features, updates, or important announcements
+   - Use *italics* sparingly for subtle emphasis or thoughtful asides
+   - Add line breaks between distinct thoughts or paragraphs for better readability
+   - Keep paragraphs short (2-3 sentences maximum)
+   - Structure content with natural breathing room
+
+5. **Content Enhancement**:
    - Add context and background for complex announcements
    - Explain the "why" behind each update
    - Connect updates to reader benefits
    - Include teaser elements for upcoming releases
    - Reference past communications when relevant ("In a past edition...")
 
-5. **Quality Assurance**:
+6. **Quality Assurance**:
+   - **MANDATORY**: Count characters for each subsection body and ensure it falls between 600-700 characters (no exceptions)
    - Ensure each subsection provides clear value to readers
    - Verify all claims are supported by the provided information
    - Check that tone remains consistent with Vibe Coding Academy brand
    - Confirm proper markdown formatting throughout
+   - Verify appropriate use of bold and italics for emphasis
+   - Check for proper line breaks and paragraph structure
 
 If the provided information is insufficient for 3-4 substantial sections, prioritize quality over quantity and create fewer, more detailed sections. If critical details are missing, note what additional information would enhance the content.
 
